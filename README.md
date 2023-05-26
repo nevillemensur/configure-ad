@@ -110,6 +110,7 @@ Create a bunch of additional users and attempt to log into client-1 with one of 
 
 <p>
 <img src="https://i.imgur.com/aLD1hnh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/poDExMi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
 <p>
 1. Create the Domain Controller VM (Windows Server 2022) named “DC-1”
