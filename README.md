@@ -109,22 +109,23 @@ Create a bunch of additional users and attempt to log into client-1 with one of 
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/aLD1hnh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/poDExMi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
-</p>
-<p>
 1. Create the Domain Controller VM (Windows Server 2022) named “DC-1”
 Take note of the Resource Group and Virtual Network (Vnet) that get created at this time
 </p>
+<p>
+<img src="https://i.imgur.com/aLD1hnh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/poDExMi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
+</p>
 <br />
-
+  
+<p>
+2. Create the Client VM (Windows 10) named “Client-1”. Use the same Resource Group and Vnet that was created in Step 1.
+</p>
 <p>
 <img src="https://i.imgur.com/552iIki.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/HC947jT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>  
 </p>
-<p>
-2. Create the Client VM (Windows 10) named “Client-1”. Use the same Resource Group and Vnet that was created in Step 1.
-</p>
+
 <br />
 
 <p>
