@@ -167,6 +167,9 @@ Ensure Connectivity between the client and Domain Controller
 <img src="https://i.imgur.com/PxQIZZR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/8Gg67nz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/KoIiIcH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+7. Check back at Client-1 to see the ping succeed
+</p>
 <img src="https://i.imgur.com/Tym9abj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
