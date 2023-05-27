@@ -140,7 +140,7 @@ Take note of the Resource Group and Virtual Network (Vnet) that get created at t
 <br />
 
 <p>
-Ensure that both VMs are in the same Vnet 
+4. Ensure that both VMs are in the same Vnet 
 </p>
 <p>
 <img src="https://i.imgur.com/kH5VlBM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
