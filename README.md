@@ -188,6 +188,9 @@ Install Active Directory
 <img src="https://i.imgur.com/cKEzuKT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/e1FaNTE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/cUfqOuL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+9. Promote as a DC: Setup a new forest as mydomain.com (can be anything, just remember what it is)
+</p>
 <img src="https://i.imgur.com/Iq8UBZY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/dzmbPq0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/3ixR49M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
