@@ -176,6 +176,7 @@ Ensure Connectivity between the client and Domain Controller
   
 <p>
 Install Active Directory
+
 8. Login to DC-1 and install Active Directory Domain Services
 </p>
 <p>
