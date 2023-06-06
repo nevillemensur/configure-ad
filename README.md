@@ -316,6 +316,11 @@ Setup Remote Desktop for non-administrative users on Client-1
 22. Click “Remote Desktop”
 </p>
 <img src="https://i.imgur.com/QzJqofX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p>
+23. Allow “domain users” access to remote desktop
+</p>
+
 <img src="https://i.imgur.com/ty1kykP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/SF1VqsP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/PKjEXbZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
