@@ -76,35 +76,34 @@ Join Client-1 to your domain (mydomain.com)
   
 20. Login to the Domain Controller (Remote Desktop) and verify Client-1 shows up in Active Directory Users and Computers (ADUC) inside the “Computers” container on the root of the domain
   
-21. Create a new OU named “_CLIENTS” and drag Client-1 into there
 
 
 Setup Remote Desktop for non-administrative users on Client-1
   
-22. Log into Client-1 as mydomain.com\jane_admin and open system properties
+21. Log into Client-1 as mydomain.com\jane_admin and open system properties
   
-23. Click “Remote Desktop”
+22. Click “Remote Desktop”
   
-24. Allow “domain users” access to remote desktop
+23. Allow “domain users” access to remote desktop
   
-25. You can now log into Client-1 as a normal, non-administrative user now
+24. You can now log into Client-1 as a normal, non-administrative user now
   
-26. Normally you’d want to do this with Group Policy that allows you to change MANY systems at once (maybe a future lab)
+25. Normally you’d want to do this with Group Policy that allows you to change MANY systems at once (maybe a future lab)
   
 
 Create a bunch of additional users and attempt to log into client-1 with one of the users
   
-27. Login to DC-1 as jane_admin
+26. Login to DC-1 as jane_admin
   
-28. Open PowerShell_ise as an administrator
+27. Open PowerShell_ise as an administrator
   
-29. Create a new File and paste the contents of the script into it
+28. Create a new File and paste the contents of the script into it
   
-30. Run the script and observe the accounts being created
+29. Run the script and observe the accounts being created
   
-31. When finished, open ADUC and observe the accounts in the appropriate OU
+30. When finished, open ADUC and observe the accounts in the appropriate OU
   
-32. Attempt to log into Client-1 with one of the accounts (take note of the password in the script)
+31. Attempt to log into Client-1 with one of the accounts (take note of the password in the script)
 
 <h2>Deployment and Configuration Steps</h2>
 
