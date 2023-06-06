@@ -303,8 +303,11 @@ From the Azure Portal, set Client-1’s DNS settings to the DC’s Private IP ad
 <br />
   
 <p>
-20. Login to the Domain Controller (Remote Desktop) and verify Client-1 shows up in Active Directory Users and Computers (ADUC) inside the “Computers” container on the root of the domain
+Setup Remote Desktop for non-administrative users on Client-1
+  
+21. Log into Client-1 as mydomain.com\jane_admin and open system properties
 </p>
+
 <p>
 <img src="https://i.imgur.com/ZXBsZyV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/V7IgETU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
