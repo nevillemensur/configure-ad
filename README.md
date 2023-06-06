@@ -88,22 +88,20 @@ Setup Remote Desktop for non-administrative users on Client-1
   
 24. You can now log into Client-1 as a normal, non-administrative user now
   
-25. Normally you’d want to do this with Group Policy that allows you to change MANY systems at once (maybe a future lab)
-  
 
 Create a bunch of additional users and attempt to log into client-1 with one of the users
   
-26. Login to DC-1 as jane_admin
+25. Login to DC-1 as jane_admin
   
-27. Open PowerShell_ise as an administrator
+26. Open PowerShell_ise as an administrator
   
-28. Create a new File and paste the contents of the script into it
+27. Create a new File and paste the contents of the script into it
   
-29. Run the script and observe the accounts being created
+28. Run the script and observe the accounts being created
   
-30. When finished, open ADUC and observe the accounts in the appropriate OU
+29. When finished, open ADUC and observe the accounts in the appropriate OU
   
-31. Attempt to log into Client-1 with one of the accounts (take note of the password in the script)
+30. Attempt to log into Client-1 with one of the accounts (take note of the password in the script)
 
 <h2>Deployment and Configuration Steps</h2>
 
@@ -325,6 +323,11 @@ Setup Remote Desktop for non-administrative users on Client-1
 <img src="https://i.imgur.com/SF1VqsP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/PKjEXbZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/R49WUfG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p>
+24. You can now log into Client-1 as a normal, non-administrative user now
+</p>
+
 <img src="https://i.imgur.com/7fr66xi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/SFV29mK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/0VRFsLi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
