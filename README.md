@@ -266,7 +266,9 @@ Create an Admin and Normal User Account in AD
 <br />
   
 <p>
-17. Join Client-1 to your domain (mydomain.com) From the Azure Portal, set Client-1’s DNS settings to the DC’s Private IP address
+17. Join Client-1 to your domain (mydomain.com)
+
+From the Azure Portal, set Client-1’s DNS settings to the DC’s Private IP address
 </p>
 <p>
 <img src="https://i.imgur.com/HohTX1z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
