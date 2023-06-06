@@ -311,6 +311,10 @@ Setup Remote Desktop for non-administrative users on Client-1
 <p>
 <img src="https://i.imgur.com/ZXBsZyV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/V7IgETU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p>
+22.Click “Remote Desktop”
+</p>
 <img src="https://i.imgur.com/QzJqofX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/ty1kykP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/SF1VqsP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -323,22 +327,8 @@ Setup Remote Desktop for non-administrative users on Client-1
 <br />
   
 <p>
-Setup Remote Desktop for non-administrative users on Client-1
-  
-21. Log into Client-1 as mydomain.com\jane_admin and open system properties
-</p>
-<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- 
-<p>
-  
-22. Click “Remote Desktop”
-  
-</p>
-<p>
-  
- 
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
