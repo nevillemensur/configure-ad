@@ -316,7 +316,9 @@ From the Azure Portal, set Client-1’s DNS settings to the DC’s Private IP ad
 <br />
   
 <p>
-21.Create a new OU named “_CLIENTS” and drag Client-1 into there
+Setup Remote Desktop for non-administrative users on Client-1
+  
+21. Log into Client-1 as mydomain.com\jane_admin and open system properties
 </p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
