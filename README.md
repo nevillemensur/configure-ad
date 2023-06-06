@@ -313,7 +313,7 @@ Setup Remote Desktop for non-administrative users on Client-1
 <img src="https://i.imgur.com/V7IgETU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p>
-22.Click “Remote Desktop”
+22. Click “Remote Desktop”
 </p>
 <img src="https://i.imgur.com/QzJqofX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/ty1kykP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
